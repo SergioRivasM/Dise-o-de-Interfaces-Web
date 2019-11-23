@@ -1,4 +1,4 @@
-***Componentes de BootStrap 4 que he usado en la realización de mi web
+**Componentes de BootStrap 4 que he usado en la realización de mi web
 
 1 - Alerts: He usado este componente como alerta/aviso de cookies en la página web, posicionándolo de manera fija haciendo scroll o no, y se podrá cerrar esta alerta haciendo clic sobre la X de la derecha de la alerta.
 
